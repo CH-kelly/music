@@ -35,7 +35,7 @@ npm run lint
 此网站提供的API: https://github.com/Binaryify/NeteaseCloudMusicApi,
 此接口的说明请到这里<a href='https://binaryify.github.io/NeteaseCloudMusicApi/#/?id=%e5%ae%89%e8%a3%85'>查看</a>
 感谢：<a href="https://github.com/javaSwing/NeteaseCloudWebApp">javaSwing/NeteaseCloudWebApp</a>、
-<a href="https://segmentfault.com/a/1190000019623347">appleguardu</a><a></a>提供参考
+<a href="https://segmentfault.com/a/1190000019623347">appleguardu</a>提供代码参考，<a href='https://www.iconfont.cn/'>iconfont</a>提供图标
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
